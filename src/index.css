@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* Global Styles */
+body{
+  overflow-x:hidden;  /* This will hide any content that overflows the width of the viewport (the browser window). */
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin:0;
+  width: 0;
+  position: relative;
+  background-color: black;
+  color: white;
+
+}
+
