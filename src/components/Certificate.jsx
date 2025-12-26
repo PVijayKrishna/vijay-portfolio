@@ -49,9 +49,7 @@ export default function Certificate() {
 
           <div className='text-center mt-1 cursor-pointer'>
               <span className='text-xl text-gray-600 text-center font-bold  mt-2 hover:underline hover:text-purple-600 hover:shadow-xl '>
-              <a href="#" >
-               View Certificate
-               </a>
+              <a href={certi3} target="_blank" rel="noopener noreferrer">View Certificate</a>
               </span>
           </div>
 
@@ -73,7 +71,7 @@ export default function Certificate() {
 
           <div className='text-center mt-1 cursor-pointer'>
               <span className='text-xl text-gray-600 text-center font-bold  mt-2 hover:underline hover:text-purple-600 hover:shadow-xl '>
-               View Certificate
+                <a href={certi2} target="_blank" rel="noopener noreferrer">View Certificate</a>
               </span>
           </div> 
         </motion.div>
@@ -94,7 +92,7 @@ export default function Certificate() {
 
           <div className='text-center mt-3 cursor-pointer'>
               <span className='text-xl text-gray-600 text-center font-bold mt-2 hover:underline hover:text-purple-600 hover:shadow-xl '>
-               View Certificate
+              <a href={certi1} target="_blank" rel="noopener noreferrer">View Certificate</a>
               </span>
           </div>
 

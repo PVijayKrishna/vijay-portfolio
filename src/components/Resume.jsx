@@ -99,7 +99,7 @@ export default function Resume() {
                     <div className="relative">
                         <span className="absolute -left-[31px] top-1 w-4 h-4 rounded-full bg-violet-500 ring-4 ring-violet-200"></span>
                         <h4 className="text-xl font-bold text-gray-200">Bachelor of Technology in CS</h4>
-                        <p className="text-violet-400">KL University | 2021 - 2025</p>
+                        <p className="text-violet-400">KL University | 2023 - 2027</p>
                         <p className="text-gray-400 mt-2 text-sm">Specializing in Artificial Intelligence and scalable web architectures.</p>
                     </div>
                     {/* Add more education items here if needed */}
