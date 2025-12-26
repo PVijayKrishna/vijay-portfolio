@@ -2,7 +2,7 @@ import React, { useRef, useEffect } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { FaShareAlt } from 'react-icons/fa'; // Changed to FontAwesome as SIShareAlt doesn't exist
-import imageSrc from "../assets/RAG chatbot.png";
+import imageSrc from "../assets/RAG-chatbot.png";
 
 // Note: If you have local images in your src folder, import them like this:
 // import project1Img from '../assets/RAG chatbot.png';
